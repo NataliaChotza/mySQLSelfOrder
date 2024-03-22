@@ -10,4 +10,5 @@ public class MySqlConnectionApplication {
 		SpringApplication.run(MySqlConnectionApplication.class, args);
 	}
 
+	//TO DO - file with ready data and save it into database
 }
